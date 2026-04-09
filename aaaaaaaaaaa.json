@@ -1,4 +1,18 @@
 [
-  {"Roll": "101", "Name": "John Doe", "Math": 85, "Science": 90, "English": 78, "Total": 253},
-  {"Roll": "102", "Name": "Jane Smith", "Math": 92, "Science": 88, "English": 95, "Total": 275}
+  {
+    "RollNumber": "101",
+    "Name": "John Doe",
+    "Math": 85,
+    "Science": 90,
+    "English": 78,
+    "Total": 253
+  },
+  {
+    "RollNumber": "102",
+    "Name": "Jane Smith",
+    "Math": 92,
+    "Science": 88,
+    "English": 95,
+    "Total": 275
+  }
 ]
