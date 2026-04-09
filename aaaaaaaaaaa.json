@@ -1,14 +1,10 @@
 [
   {
-    "rollNo": "101",
-    "name": "John Doe",
-    "grade": "A",
-    "total": "450"
-  },
-  {
-    "rollNo": "102",
-    "name": "Jane Smith",
-    "grade": "B+",
-    "total": "395"
+    "Roll Number": "101",
+    "Name": "Raju",
+    "Maths": "25",
+    "Science": "30",
+    "English": "46",
+    "Total": "101"
   }
 ]
