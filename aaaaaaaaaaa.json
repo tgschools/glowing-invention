@@ -1,6 +1,6 @@
 [
   {
-    "Roll_Number": "101",
+    "Roll_Number_student": "101",
     "Name": "John Doe",
     "Math": 85,
     "Science": 90,
@@ -8,7 +8,7 @@
     "Total": 253
   },
   {
-    "Roll_Number": "102",
+    "Roll_Number_student": "102",
     "Name": "Jane Smith",
     "Math": 92,
     "Science": 88,
